@@ -1,0 +1,25 @@
+body{
+    /* display: grid;
+    grid-template-rows: 100px minmax(calc(100vh - 170px), 1fr) 50px;
+gap: 20px */
+
+
+}
+
+header{
+    background-color: yellow;
+    font-size: 50px;
+}
+.logo{
+    width: 100px;
+}
+
+h1{
+    padding-top: 40px;
+    text-align: center;
+
+}
+main{
+   
+ }
+  
